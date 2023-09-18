@@ -1,7 +1,7 @@
 # Delicious Chocolate Cake Recipe
 
 ## Most important:
-- Call Dennis
+- Call Denn
 
 ## Ingredients:
 - 2 cups all-purpose flour
